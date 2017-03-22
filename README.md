@@ -7,7 +7,9 @@ Dans le dossier où il y a le site :
 cordova create CordovaProject io.cordova.hellocordova CordovaApp
 
 •	CordovaProject is the directory name where the app is created.
+
 •	io.cordova.hellocordova is the default reverse domain value. You should use your own domain value if possible.
+
 •	CordovaApp is the title of your app.
 
 
@@ -15,7 +17,7 @@ cordova create CordovaProject io.cordova.hellocordova CordovaApp
 
 a. cordova platform add android
 
-b. <u>Les OS :</u> 
+b. Les OS :
 cordova platform add wp8
 cordova platform add amazon-fireos
 cordova platform add windows

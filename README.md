@@ -15,7 +15,7 @@ cordova create CordovaProject io.cordova.hellocordova CordovaApp
 
 a. cordova platform add android
 
-b. Les OS : 
+b. <u>Les OS :</u> 
 cordova platform add wp8
 cordova platform add amazon-fireos
 cordova platform add windows
